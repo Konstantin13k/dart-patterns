@@ -1,1 +1,1 @@
-A simple command-line application.
+All GoF patterns in dart.
