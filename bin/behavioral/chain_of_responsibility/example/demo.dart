@@ -12,6 +12,7 @@ final Server server = Server();
 void main() {
   _initServer();
 
+
   bool success = false;
   do {
     print('Enter email: ');
